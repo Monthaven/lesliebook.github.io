@@ -6390,15 +6390,20 @@ function getCharsPerPage() {
     const vh = window.innerHeight;
     const vw = window.innerWidth;
     
-    // Use smaller of width/height to determine page capacity
+    // Calculate actual usable page area (accounting for padding + page-number)
     const minDim = Math.min(vh, vw);
+    const maxDim = Math.max(vh, vw);
     
-    if (minDim < 400) return 400;       // Very small screens
-    if (minDim < 500) return 550;       // Mobile landscape
-    if (minDim < 600) return 700;       // Small mobile portrait  
-    if (minDim < 700) return 850;       // Mobile portrait
-    if (minDim < 900) return 1000;      // Tablet
-    return 1200;                         // Desktop
+    // Desktop-like content density for all devices
+    if (minDim < 320) return 600;       // Tiny phones (iPhone SE)
+    if (minDim < 375) return 800;       // Small phones
+    if (minDim < 430) return 1000;      // Standard phones
+    if (minDim < 500) return 1200;      // Large phones / small landscape
+    if (minDim < 600) return 1400;      // Phablets
+    if (minDim < 700) return 1600;      // Small tablets portrait
+    if (minDim < 800) return 1800;      // Tablets
+    if (minDim < 1000) return 2000;     // Large tablets
+    return 2200;                         // Desktop
 }
 
 // ============================================
