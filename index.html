@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leslie lives the lie...</title>
+    
+    <!-- Font Preloading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loader" class="loader">
+        <div class="loader-content">
+            <div class="loader-book">
+                <div class="loader-page"></div>
+                <div class="loader-page"></div>
+                <div class="loader-page"></div>
+            </div>
+            <p class="loader-text">Opening book...</p>
+        </div>
+    </div>
+
+    <!-- Ambient Particles -->
+    <div id="particles" class="particles-container"></div>
+
+    <!-- Touch Gesture Hint (Mobile) -->
+    <div id="gesture-hint" class="gesture-hint">
+        <div class="gesture-hand">
+            <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M9 11.24V7.5C9 6.12 10.12 5 11.5 5S14 6.12 14 7.5v3.74c1.21-.81 2-2.18 2-3.74C16 5.01 13.99 3 11.5 3S7 5.01 7 7.5c0 1.56.79 2.93 2 3.74zm9.84 4.63l-4.54-2.26c-.17-.07-.35-.11-.54-.11H13v-6c0-.83-.67-1.5-1.5-1.5S10 6.67 10 7.5v10.74l-3.43-.72c-.08-.01-.15-.03-.24-.03-.31 0-.59.13-.79.33l-.79.8 4.94 4.94c.27.27.65.44 1.06.44h6.79c.75 0 1.33-.55 1.44-1.28l.75-5.27c.01-.07.02-.14.02-.21 0-.59-.34-1.15-.91-1.41z"/>
+            </svg>
+        </div>
+        <span>Swipe to turn pages</span>
+    </div>
+
+    <!-- Reading Progress Bar -->
+    <div id="progress-bar" class="progress-bar">
+        <div id="progress-fill" class="progress-fill"></div>
+    </div>
+
+    <!-- Main Book Container -->
+    <div class="book-container">
+        <div id="book"></div>
+    </div>
+
+    <!-- Enhanced Controls -->
+    <div class="controls">
+        <button id="prev-btn" title="Previous Page (←)">← Previous</button>
+        
+        <!-- Chapter Jump Dropdown -->
+        <div class="chapter-select-wrapper">
+            <select id="chapter-select" title="Jump to Chapter">
+                <option value="">Jump to Chapter...</option>
+            </select>
+        </div>
+        
+        <span id="page-num">Page 1</span>
+        
+        <button id="next-btn" title="Next Page (→)">Next →</button>
+        
+        <!-- Theme Toggle -->
+        <button id="theme-toggle" class="icon-btn" title="Toggle Reading Mode">
+            <svg id="theme-icon" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                <path d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z"/>
+            </svg>
+        </button>
+        
+        <!-- Sound removed intentionally -->
+        
+        <!-- Fullscreen Toggle -->
+        <button id="fullscreen-toggle" class="icon-btn" title="Toggle Fullscreen (F)">
+            <svg id="fullscreen-icon" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+            </svg>
+        </button>
+    </div>
+
+    <!-- Page sound removed -->
+
+    <script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>
+    <script src="js/book.js"></script>
+</body>
+</html>
