@@ -6633,28 +6633,41 @@ document.addEventListener('DOMContentLoaded', () => {
     const bookPages = splitIntoPages(chapters, getCharsPerPage());
     generatePageHTML(bookPages);
     
-    // Initialize StPageFlip
-    pageFlip = new St.PageFlip(document.getElementById('book'), {
-        width: 550,
-        height: 733,
+    // Initialize StPageFlip with adaptive sizing for narrow/mobile devices
+    const bookContainer = document.getElementById('book');
+    const rect = bookContainer.getBoundingClientRect();
+    const isNarrow = Math.min(window.innerWidth, window.innerHeight) < 900;
+
+    const adaptiveWidth = Math.max(320, Math.floor(rect.width * 0.94));
+    const adaptiveHeight = Math.max(420, Math.floor(rect.height * 0.88));
+
+    pageFlip = new St.PageFlip(bookContainer, {
+        width: isNarrow ? adaptiveWidth : 550,
+        height: isNarrow ? adaptiveHeight : 733,
         size: 'stretch',
         minWidth: 280,
-        maxWidth: 1000,
-        minHeight: 400,
-        maxHeight: 1200,
+        maxWidth: 3000,
+        minHeight: 320,
+        maxHeight: 3000,
         showCover: true,
         maxShadowOpacity: 0.5,
         mobileScrollSupport: true,
         useMouseEvents: true,
-        flippingTime: 800,
-        usePortrait: window.innerWidth < 768,
+        flippingTime: 600,
+        usePortrait: isNarrow,
         startPage: 0,
         drawShadow: true,
         autoSize: true
     });
 
-    // Load pages
+    // Load pages and request a redraw so a single-page / readable layout is used on narrow screens
     pageFlip.loadFromHTML(document.querySelectorAll('.page'));
+    if (isNarrow) {
+        // ensure the flipbook fits the container on narrow devices
+        setTimeout(() => {
+            try { pageFlip.update(); } catch (e) { /* ignore */ }
+        }, 120);
+    }
     
     // Page sound disabled
     
