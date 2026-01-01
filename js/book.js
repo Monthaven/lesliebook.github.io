@@ -1986,1101 +1986,689 @@ Then I stood in the hallway, heart pounding, and realized I'd crossed a line I c
 
 I did it before I could change my mind.`
     },
-    {
-        number: 4,
-        title: "Friends Don't Let Friends Forget",
-        pov: "Amelia",
-        content: `People always misunderstand what power looks like.
+        {
+        number: 7,
+        title: "Tell Me a Secret",
+        pov: "Sorren",
+        content: `When the grown-ups started acting weird, I decided to investigate.
 
-They think it's loud. They think it's cruelty. They think it's a raised voice at a table, a slammed door, a man who takes up too much space and calls it confidence.
+I'm really good at investigating. I know this because I once found Mr. Whiskers hiding in the laundry basket even though everyone else said he ran away. I was seven. Now I'm ten, and my investigation skills have only gotten better.
 
-That's not power.
+The dinner party was supposed to be fun. Mom made the good mac and cheese (the fancy kind with the crunchy stuff on top), and Dad wore his blue shirt that makes his eyes look really nice. Nathias said the blue shirt was "statistically correlated with special occasions," which is his way of saying Dad only wears it when things matter.
 
-Power is a smile that makes someone else apologize.
+Things mattered tonight.
 
-Power is knowing the right compliment to give in public and the right sentence to whisper in private.
+I could tell because Mom kept smiling, but her smile looked like it was stuck on with tape. And Dad kept touching her shoulder like he was making sure she was still there. And Amelia laughed a lot, but her laughs sounded sharp, like when you drop a fork on the floor.
 
-Power is being the person a woman calls when she's in trouble, and being the person she's still terrified of after you help her.
+Maddison was the weirdest.
 
-Leslie Clausen was the neighborhood's favorite story.
+She was a new person. I like new people because they don't know all my jokes yet. But Maddison didn't laugh at my jokes. She just looked at me with her calm eyes and said, "That's clever," like she was grading me.
 
-The nurse with the perfect hair. The mother with the bright children. The wife with the husband who looked like a magazine cover and acted like he didn't know it.
+Adults don't usually grade me. They usually say, "Oh, Sorren, you're so funny!" and then go back to their wine.
 
-The woman who "found herself" here, in Harbor Hill, and built a life that made other women feel hopeful.
+Maddison paid attention.
 
-I built that story.
+That made me nervous.
 
-I also kept the original draft.
+Hope was nicer. She smiled a lot and asked me about school, and when I told her I wanted to be a marine biologist who also solves crimes, she said, "That's amazing. The ocean has so many mysteries."
 
-From the head of Leslie's table, I watched her return from the kitchen with that same warm, practiced glow that always made people lean in. If you didn't know her well, you'd think she'd simply stepped away to fix a sauce or calm a child. You'd think she was exactly what she appeared to be.
+I liked Hope.
 
-But I knew Leslie's tells.
+But Hope kept looking at Maddison like she was waiting for permission to breathe.
 
-The way her fingers held her wineglass too firmly. The way her eyes blinked too slowly when she was trying not to cry. The way her laugh arrived half a beat late, like she was checking the room for danger before she allowed herself joy.
+That was weird too.
 
-And tonight, there was danger.
+After the main course, Mom went to the kitchen. Then Dad went after her. Then Amelia went to the bathroom. Then Maddison left too, and Hope looked like she might cry.
 
-It wasn't even subtle.
+Nathias stared at the hallway like he was doing math in his head.
 
-Maddison sat across from Leslie like a poised knife. She hadn't touched her wine once. She didn't charm the room the way Hope did, with eagerness and softness. Maddison simply existed, and people rearranged themselves around her without realizing they were doing it.
+"Something's wrong," I whispered to him.
 
-Most women like Maddison arrive in Harbor Hill with a man's last name and a credit score.
+Nathias didn't look at me. "Define 'wrong.'"
 
-She arrived with a scar near her eyebrow and a gaze that never flinched.
+"I don't know. Bad vibes."
 
-That kind of woman isn't here for friends.
+Nathias made a face like I'd said something unscientific. "Vibes are not measurable."
 
-That kind of woman is here for a reckoning.
+"They are if you pay attention," I said.
 
-Alec looked like he'd swallowed something sharp. He kept his smile in place, but his shoulders were tight, his jaw working like he was biting back words. He reached for Leslie's knee under the table—sweet, instinctive—and she didn't react quickly enough.
+He didn't argue. That meant he agreed but didn't want to say so.
 
-People think husbands don't notice those things.
+I decided to investigate.
 
-Husbands notice everything that threatens their illusion of safety.
+"I'm getting ice cream," I announced, even though no one asked.
 
-I sipped my wine and let my gaze drift lazily over the room like I was a queen admiring her kingdom.
+Nathias glanced at me. His eyes said: You're lying.
 
-Hope laughed too loudly at Sorren's joke, trying to show she belonged. Nathias watched Maddison with a stillness that made him look older than he was. Children like Nathias were inconvenient. They saw patterns adults worked hard to hide.
+My eyes said: Obviously.
 
-Maddison's eyes moved like she was collecting evidence.
+I walked toward the kitchen, but I didn't go in. Instead, I crouched behind the corner and listened.
 
-Good.
+Mom and Dad were talking. Their voices were low, the kind of low that meant they didn't want me to hear.
 
-Let her collect.
+"—can't keep doing this," Dad said.
 
-She'd find what I wanted her to find.
+"I know," Mom whispered. "I know."
 
-"Leslie," I said brightly, when the conversation lulled, "you should tell them about the fundraiser next month."
+"Then tell me. Tell me what's going on."
 
-Leslie's smile tightened. "Oh, it's nothing major."
+Silence.
 
-"It's major," I corrected. Gently. In a way that sounded supportive. "She's being modest. Leslie does so much for this community."
+I held my breath.
 
-Hope nodded, grateful for something neutral. "That's amazing."
+Then Mom said something that made my stomach feel cold.
 
-Maddison didn't nod.
+"You wouldn't love me if you knew."
 
-She just looked at Leslie and said, almost tenderly, "You must like helping people."
+Dad made a sound like someone had punched him. "Leslie. That's not—"
 
-Leslie's fingers paused on her fork. "I do."
+"Don't," Mom said. "Please. Not tonight."
 
-"Do you ever wish someone helped you?" Maddison asked.
+Footsteps. Someone was coming.
 
-It was a simple question.
+I scrambled back toward the dining room, heart pounding, and pretended I was looking at the fancy painting on the wall. The one with the boats and the waves and the seagulls that looked angry.
 
-It landed like a hand around the throat.
+Mom walked past me. She didn't see me. Her eyes were wet.
 
-Alec's gaze snapped to Maddison, sharp now, not polite.
+My chest hurt.
 
-Leslie's smile held, but her eyes were too bright. "I'm very lucky," she said.
+I wanted to hug her, but I also wanted to know why she was crying. You can't fix a problem if you don't know what it is. That's what Dad always says.
 
-Lucky.
+Dad walked past next. He saw me.
 
-I swallowed my laughter. Lucky was such a pretty word for a cage.
+"Hey, kiddo," he said, and his voice was too normal. "You okay?"
 
-Sorren spoke up, eager to rescue the room from adult tension the way children always tried to. "Mom saves people at work," she said proudly. "She's like a superhero."
+"Yep," I lied.
 
-Maddison's expression softened, just slightly, at Sorren's innocence. "That's a good thing to be," she said. Then she looked back at Leslie. "A savior."
+He smiled, but his smile didn't reach his eyes. "Good. Dessert soon."
 
-I felt the shift in Leslie at that word.
+He went back to the dining room.
 
-Because saviors are always hiding something.
+I stood in the hallway alone, trying to understand.
 
-People don't become saviors because life has been kind to them. They become saviors because they understand what it feels like to drown.
+Mom said Dad wouldn't love her if he knew something.
 
-I set my glass down with a soft click. "Dessert," I announced, like a director changing scenes. "Who wants more?"
+What could be that bad?
 
-Everyone murmured yes, because sugar is what people reach for when they don't know what else to do with their discomfort.
+I didn't know. But I was going to find out.
 
-Leslie rose to clear plates, and I watched her carefully.
+That's when I saw it.
 
-Maddison's eyes followed her.
+On the floor, near the kitchen doorway, something small and white.
 
-Alec's eyes followed Maddison.
+A card.
 
-Oh.
+I picked it up.
 
-This was going to be delicious.
+It was a driver's license. The kind adults carry in their wallets.
 
-When Leslie disappeared into the kitchen again, I stood too, graceful, casual, the perfect friend. "Excuse me," I said, smiling at Hope and Maddison. "Powder room."
+But the name on it wasn't Mom's name.
 
-I didn't go to the powder room.
+The name said: Lena Mercer.
 
-I went to the hallway closet.
+And the picture—
 
-Behind the coats and scarves, behind the basket of gloves no one actually wore, there was a small, flush panel in the wall. You'd never notice it unless you knew where to look.
+The picture was Mom.
 
-I knew because I'd paid the contractor to install it when Leslie moved in.
+I stared at it so long my eyes started to blur.
 
-Leslie thought it was a "security upgrade." A safe place for passports and cash in case of a break-in.
+That didn't make sense.
 
-It was.
+Mom's name was Leslie Clausen. She was born Leslie Marie Dawson. She married Dad and became a Clausen. I knew this because I asked once for a school project about family trees.
 
-Just not the break-in she'd been preparing for.
+But this card said Lena Mercer.
 
-I pressed my finger to the hidden latch.
+And the birthday was different.
 
-The panel clicked open.
+And the address was somewhere I'd never heard of.
 
-Inside was a small metal lockbox.
+My hands shook.
 
-My lockbox.
+I didn't know what to do.
 
-Leslie didn't know it existed. Alec didn't either. I'd made sure the contractor understood the value of discretion.
+I could show Dad. But what if it made him sad? What if it made him leave?
 
-I lifted the box out and carried it into the powder room, locking the door behind me.
+I could show Nathias. But Nathias would want to "analyze the data," and I didn't have time for that.
 
-Then I opened it.
+I could ask Mom. But Mom was already crying, and I didn't want to make it worse.
 
-The contents were exactly where I'd left them.
+So I did the only thing that made sense.
 
-A thin manila folder with a police report clipped inside.
+I hid it.
 
-A photocopy of a birth certificate that didn't match the name on Leslie's driver's license.
+I shoved the card into my pocket and walked back to the dining room like nothing had happened.
 
-A folded newspaper article with a water-damaged photo in the corner: a blurry image of a young woman being escorted toward an ambulance, hair wet, face turned away from the camera.
+Nathias looked at me. "You didn't get ice cream."
 
-A woman with Leslie's posture.
+"Changed my mind," I said.
 
-And finally, the most useful thing of all.
+His eyes narrowed. He knew I was lying.
 
-A phone.
+I stared at my plate and tried to breathe.
 
-Not my everyday phone. The other one. The one I kept for people who believed secrets were currency.
+Mom came back to the table. She was smiling again, but her smile looked even more taped-on than before.
 
-I turned it on.
+Maddison was back too. She looked at Mom the way I look at puzzles right before I solve them.
 
-A single new message waited.
+Amelia was back. She was laughing again, bright and sharp.
 
-Unknown number.
+Hope was still at the table. She looked pale.
 
-She has the card.
+Everyone was pretending everything was fine.
 
-I smiled.
+But I had a card in my pocket that said nothing was fine.
 
-So Maddison had already made her move. Bold. Messy. Impatient.
+And I didn't know who Lena Mercer was.
 
-Hope would have tried to befriend Leslie for weeks before nudging at the truth. Maddison was the kind of woman who kicked the door in and called it honesty.
+But I was going to find out.
 
-I respected that.
-
-I also planned to use it.
-
-I opened my messages and scrolled until I found the thread I needed. It wasn't long. It didn't have to be. The most powerful threats are always brief.
-
-A photo.
-
-The newspaper clipping, captured cleanly.
-
-Then a second photo, taken years ago, back when Leslie's hair was darker and her eyes still had that hunted look.
-
-Leslie standing beside me in a parking lot outside a courthouse, shoulders hunched, face raw.
-
-If you didn't know the context, it looked like a friend comforting a friend.
-
-If you did know, it looked like what it was.
-
-A rescue.
-
-A debt.
-
-I typed one sentence beneath the photos.
-
-If she forgets who saved her, remind her.
-
-I didn't send it to Leslie.
-
-Not yet.
-
-Leslie was too panicked right now. A panicked person makes sloppy choices, and sloppy choices are hard to control.
-
-No. You don't tighten the leash when the dog is already choking.
-
-You wait until it thinks it can breathe again.
-
-Then you pull.
-
-I locked the phone and set it beside the sink. I washed my hands, because I liked the ritual of cleanliness even when I was doing dirty work.
-
-When I looked up, my own reflection stared back at me: perfect hair, perfect earrings, perfect smile.
-
-People always assumed women like me were happy.
-
-But happiness is for women who can afford to be careless.
-
-I opened the powder room door and stepped out.
-
-As I walked back toward the dining room, I heard voices.
-
-Alec's, low. Tense.
-
-Leslie's, controlled and thin.
-
-They were in the kitchen now.
-
-I slowed, just enough to catch it.
-
-"What was that?" Alec asked.
-
-"It was nothing," Leslie said.
-
-"That was not nothing," Alec replied. "That was a different name on a card with your face on it."
-
-Silence, then—Leslie's voice again, quieter, more dangerous. "Not here."
-
-Alec exhaled hard. "Who is she?"
-
-Leslie didn't answer.
-
-I didn't need to hear more. I had enough.
-
-I stepped into the dining room with a bright smile like I'd been fixing lipstick instead of collecting ammunition.
-
-Hope looked relieved to see me. She needed social leaders the way drowning people needed hands.
-
-Maddison looked at me with a calm interest that almost made me laugh.
-
-Oh, she knows.
-
-She knows I'm not just a friend.
-
-She knows I'm the kind of woman who keeps other women's lives in folders.
-
-Good.
-
-I walked behind Leslie's chair and rested my hand lightly on her shoulder.
-
-From the outside, it looked affectionate.
-
-From the inside, it was a message pressed into muscle.
-
-I'm still here. I still own the story.
-
-"You've outdone yourself," I said warmly, loud enough for the table. "Everything is lovely."
-
-Leslie's smile strained upward. "Thank you."
-
-I leaned closer, so close my lips were near her ear, my voice soft enough that it could have been a compliment.
-
-"Breathe," I whispered. "Don't let her see you sweat."
-
-Leslie's fingers tightened around her napkin.
-
-Alec watched me, and I saw it: the first real flash of anger. Not at Leslie. At me.
-
-He wasn't stupid. He'd always known I had influence.
-
-Now he was starting to suspect why.
-
-Maddison's gaze flicked from Leslie to me. She smiled, small and polite.
-
-Then she spoke, as if we were two women sharing a harmless joke. "You seem close," she said.
-
-"We're family," I replied easily.
-
-Maddison's smile didn't change. "Family is complicated."
-
-"So is loyalty," I said.
-
-The air sharpened between us.
-
-Hope swallowed.
-
-Nathias stared.
-
-Sorren swung her legs under the table, oblivious, humming.
-
-Leslie looked like she might shatter.
-
-Perfect.
-
-A shattering person is easy to direct.
-
-I lifted my wineglass, bright again. "To new friends," I said.
-
-They all raised their glasses.
-
-Even Maddison.
-
-But Maddison didn't drink.
-
-She just held the glass and watched Leslie like she was waiting for the moment the lie finally fell out of her mouth.
-
-I let the toast fade, let the chatter resume, then I slipped my phone from my clutch beneath the table and typed a message with one hand.
-
-Not to Leslie.
-
-To a number I hadn't used in years.
-
-A number saved under a name that meant nothing to anyone else.
-
-We have a problem. She's back.
-
-I hit send.
-
-Then I looked up and met Maddison's gaze across the candlelight.
-
-She didn't look away.
-
-Neither did I.
-
-Because this wasn't a dinner party anymore.
-
-This was the opening move of a war, and I had been waiting a long time for someone to make it interesting.
-
-I knew exactly which string to pull.`
+Because that's what investigators do.`
     },
     {
-        number: 5,
-        title: "Patterns",
-        pov: "Nathias",
-        content: `Forks were supposed to be evenly spaced.
+        number: 8,
+        title: "The First Threat",
+        pov: "Leslie",
+        content: `The card was gone.
 
-That was not an opinion. It was a physical reality you could measure.
+I knew the moment I reached for my pocket and found nothing. The moment my fingers touched empty fabric instead of laminated plastic.
 
-If you set a table correctly, the distance between each fork and each plate would be consistent. The symmetry would calm the eye. It would make the room feel stable, even if the people in it were not.
+It must have fallen. In the kitchen. In the hallway. Somewhere visible, somewhere dangerous, somewhere anyone could find it.
 
-Our forks were not evenly spaced.
+My lungs stopped working.
 
-I noticed it immediately, which made Dad laugh, which made Sorren laugh, which made Mom's smile tighten the way it did when she was trying to look normal.
+I stood in the doorway between the kitchen and the dining room, frozen, while the dinner party continued like a play I was no longer part of.
 
-Normal was a performance adults did for each other.
+Amelia's laugh. Hope's nervous chatter. Sorren's bright voice asking about dessert. Nathias watching everything with that quiet, unsettling focus.
 
-I was good at spotting performances because performances had patterns.
+Alec's eyes on me.
 
-Mom did the same pattern every time she was nervous. She talked a little faster. She smiled a little wider. She blinked slower than usual, like her eyes were heavy.
+Always Alec's eyes on me.
 
-Dad did the same pattern when he was angry but trying not to be. His voice got polite. He used more jokes. He touched Mom more, like he could keep her in place by holding her.
+I forced myself to move. To smile. To pretend.
 
-Amelia did the same pattern when she wanted something. She complimented. She laughed. She spoke as if she owned the room.
+Pretending was what I was best at.
 
-Maddison was new.
+I crossed to the table and picked up a serving dish like that was my only purpose in life. Like my hands weren't shaking. Like my heart wasn't trying to claw its way out of my chest.
 
-New people were difficult because you didn't have a baseline yet. You couldn't compare their behavior to previous behavior. But you could still measure them.
+"Everything okay?" Alec murmured.
 
-Maddison didn't drink her wine.
+"Perfect," I said.
 
-That meant she did not need help becoming the version of herself she wanted to be.
+The word tasted like rust.
 
-Maddison watched Mom like Mom was a puzzle and Maddison already knew the picture on the box.
+I carried the dish to the kitchen and set it down on the counter, gripping the edge of the granite until my knuckles turned white.
 
-That was the first thing that made my stomach feel wrong.
+Think.
 
-The second thing was what she said to me.
-
-Something that looks like one thing until you realize it's another.
-
-That sentence stayed in my head like a splinter.
-
-After Mom left the table the first time, the air changed. People kept talking, but the sound was wrong. Too loud in some places. Too quiet in others. Like the conversation was a blanket being pulled over something.
-
-Dad went after her, which was expected. Dad's job, according to Dad, was to solve problems.
-
-Amelia told him to let Mom breathe. Dad did not listen.
-
-Maddison watched the hallway like she knew exactly where he'd gone.
-
-Hope kept smiling, but her smile was stretched. When people smiled too much, it meant they were trying to hide fear.
-
-Sorren started tapping her fork against her plate. Tap tap tap. The rhythm matched her impatience and also her anxiety, though she didn't know that.
-
-I could have told her. I didn't. Sorren didn't like when I explained things. She said it made her feel "like a science project."
-
-I watched the hallway.
-
-Adults think children stop paying attention when adults start talking about adult things. Adults think children disappear into their phones or their food.
-
-Adults like being wrong about that.
-
-Mom came back eventually. Dad came back too. They both smiled.
-
-But their smiles didn't match.
-
-Mom's smile looked like it was holding her face together.
-
-Dad's smile looked like it was trying to convince his own body to calm down.
-
-That's when I decided something important.
-
-Something bad had happened in the kitchen.
-
-I waited. I listened.
-
-Amelia went to the "powder room," but she did not walk the right direction for the powder room at first. She walked down the hallway and stopped near the closet.
-
-The closet door opened and closed very softly, like she didn't want anyone to hear it.
-
-That was not how people behaved when they were just going to a bathroom.
-
-I counted to ten.
-
-Then I excused myself the way Mom taught me. "May I please be excused?"
-
-Hope said, "Of course," immediately, too fast.
-
-Amelia did not look at me.
-
-Maddison did look at me. Her gaze was steady. She nodded once, very small, like we shared a secret.
-
-I did not like that.
-
-I walked into the hallway and kept my steps quiet.
-
-The closet door was closed, but the seam where it met the frame was slightly off. Not much. Most people would never notice.
-
-I noticed.
-
-I waited again, listening.
-
-I heard the low murmur of adult voices coming from the kitchen. Mom and Dad. The words were too quiet to understand, but the tones were not.
-
-Dad's tone was tight.
-
-Mom's tone was thin.
-
-I also heard the faint sound of a lock clicking somewhere that was not the kitchen.
-
-Then I heard running water.
-
-Amelia was in the powder room.
-
-So why had she gone to the closet first?
-
-I opened the closet door.
-
-Coats. Scarves. Gloves. Mom's rain boots lined up carefully. Dad's extra umbrella balanced on the shelf.
-
-Everything looked normal.
-
-Except the back wall.
-
-There was a rectangular outline in the paneling, almost invisible, like a shadow that didn't belong.
-
-A hidden door.
-
-That did not match the model of a normal closet.
-
-I crouched and ran my fingers along the edge. The panel was flush, but the latch area was slightly warmer than the wood around it.
-
-Someone had touched it recently.
-
-I pressed.
-
-Click.
-
-It opened.
-
-My pulse jumped.
-
-Inside was a space just big enough for a small box.
-
-It was empty.
-
-My stomach dropped.
-
-Amelia had taken the lockbox. The folder. The proof. The leash.
-
-If Maddison had a card, Amelia had the rest.
-
-Two women, both holding pieces of my past, both pulling in different directions.
-
-I closed the panel and leaned my forehead against the coats for a second, breathing in wool and cold air and trying not to fall apart.
-
-If I went to the marina, I might keep my children safe for one more night.
-
-If I didn't, someone would push harder.
-
-If I told Alec, he would come.
-
-If he came, they would hurt the only thing in the world I loved more than him.
-
-My phone buzzed again.
-
-A third message.
-
-Do not test me.
-
-I stared at the screen until my vision blurred.
-
-Then I straightened, wiped my face, and walked back into the kitchen.
-
-Alec was watching me like he could see the decision forming under my skin.
-
-"Where are you going," he asked quietly.
-
-I forced the tight smile onto my mouth. "Nowhere."
-
-Alec stepped closer. "Leslie," he said, voice breaking on my name, "please don't shut me out."
-
-My chest ached so hard I thought it might split.
-
-"I need you to trust me," I whispered.
-
-Alec's eyes searched mine. "Why."
-
-Because I'm going to lie again, I thought.
-
-Because I'm going to walk into the dark alone.
-
-Because someone is going to make me choose.
-
-I stepped into his space and kissed him, quick and desperate, like I could pour love into him fast enough to make up for what I was about to do.
-
-Then I pulled back, and I saw it on his face: the moment he knew I was leaving anyway.
-
-"I'll be right back," I said.
-
-Alec's hand hovered near my arm like he wanted to stop me, like he was afraid that if he touched me wrong I'd disappear entirely.
-
-I turned toward the hallway.
-
-Toward the door.
-
-Toward Dock 9.
-
-And as I reached for my coat, the truth settled in my gut with a cold finality.
-
-I knew who I had to betray.`
-    },
-    {
-        number: 6,
-        title: "Best Friends Tell the Truth",
-        pov: "Hope",
-        content: `I have always been good at smiling when I want to leave.
-
-It's a skill you learn when you've spent your life trying not to be the loudest problem in the room. When you've needed people to like you even when you don't entirely like yourself. When your survival has depended on being easy.
-
-So I smiled at Leslie's table.
-
-I smiled at Amelia's jokes, even the ones that weren't jokes. I smiled at Alec when he refilled my water like he'd been trained to be charming. I smiled at Sorren when she said something sweet, and I smiled at Nathias when he looked at me like he was measuring the accuracy of my face.
-
-And I smiled at Maddison because Maddison was the reason I was here.
-
-Maddison didn't smile back.
-
-Not the way other women did, with softness and permission. Maddison's smiles were rare and precise. Like she only used them when they were useful.
-
-I told myself it was because she was focused. Because she was brave. Because she was the kind of friend you followed into a storm because she promised she knew how to get you out the other side.
-
-But sitting at that table, watching Maddison watch Leslie Clausen, I realized something I didn't want to know.
-
-Maddison wasn't here to get out.
-
-Maddison was here to burn something down.
-
-And I had come with her.
-
-The Clausen house was beautiful in a way that felt aggressive. The kind of beautiful that made you feel like your own life was messier than it should be. Every surface gleamed. Every candle flickered like it had been arranged by someone who'd watched a tutorial. Even the lemons in the bowl looked staged, like they existed to prove that happiness could be purchased in bulk.
-
-Leslie matched the house. Polished. Controlled. A smile that never broke fully, even when her eyes kept sliding to Maddison like Maddison was a crack in the foundation.
-
-Alec sat beside her, knee brushing hers under the table, a quiet tether.
-
-That part hit me in a place I didn't like.
-
-Because I wanted that.
-
-Not Alec, specifically. Not even Leslie's life. But the feeling of being held in place by someone who didn't flinch when your world got strange.
-
-Maddison didn't want to be held.
-
-She wanted to hold.
-
-She leaned back in her chair, calm and unreadable, and I watched her not drink her wine like it was a statement. Like she needed to stay sharp.
-
-I kept drinking mine because I needed to stay soft.
-
-Soft people get invited back.
-
-Soft people get told secrets.
-
-Soft people survive.
-
-That's what I was telling myself when Leslie left the table the first time.
-
-Her chair scraped. Her napkin fell slightly out of place. Her smile was still on her face, but it looked like it had been stapled there.
-
-Alec followed her quickly, polite voice, tense shoulders.
-
-The room shifted.
-
-Amelia brightened like she'd been waiting for the moment the performance got interesting. She kept talking, kept laughing, kept filling the space where Leslie's absence was supposed to be.
-
-Amelia was the type of woman who could turn any silence into an opportunity.
-
-"Leslie gets overwhelmed," she said, as if it was affectionate.
-
-Maddison's gaze didn't move from the hallway. "Some women disappear anyway," she said.
-
-A sentence that sounded casual.
-
-A sentence that made my throat tighten.
-
-I leaned closer to Maddison and whispered, "What did you do?"
-
-Maddison didn't look at me. She kept her gaze forward, calm as a lake with something dead underneath. "Nothing you didn't come here for," she murmured.
-
-My stomach turned.
-
-I hadn't come here for this.
-
-I had come because Maddison had called me two months ago in the middle of the night with a voice that sounded like it had been scraped raw by memory.
-
-She'd said, "Hope. I found her."
-
-And I'd known immediately who she meant.
-
-We didn't say the name out loud. We never had.
-
-Names made things real. Names made you responsible.
-
-Maddison had told me we were just going to look. Just confirm. Just get closure.
-
-But closure was a lie people told themselves when they didn't want to admit they were hungry for revenge.
-
-Leslie returned eventually, smile back in place.
-
-Alec returned too, but he looked different. Like he'd seen something behind a curtain and couldn't unsee it.
-
-Maddison's eyes flicked to Leslie's face, then to Alec's, and I felt my skin prickle.
-
-Something had happened while they were gone.
-
-Something big.
-
-Amelia left next. "Powder room," she announced sweetly, and walked away like she owned the hallway too.
-
-The moment she was gone, Maddison finally turned her face toward me.
-
-Her eyes were steady. "I need you to stay here," she said quietly.
-
-My chest tightened. "Why?"
-
-"Because you're good at being liked," she replied, as if it was a compliment and not a weapon. "And I need you to keep them talking."
-
-"I don't want to be the distraction," I whispered.
-
-Maddison's gaze sharpened. "Then don't be," she said. "Be useful."
-
-She rose smoothly and slipped from the table with the same ease she used to leave parties back home right before they got ugly. No apology. No hesitation. Just movement.
-
-I watched her go, panic rising like bile.
-
-I looked at the Clausens again.
-
-Leslie was cutting her dessert into tiny pieces she didn't eat. Alec drank water like he needed something to do with his hands. Nathias watched the hallway with too much focus. Sorren hummed to herself, blissfully unaware.
-
-Amelia's laugh floated down the hall from somewhere, too bright for a bathroom.
-
-I wanted to stand up and follow Maddison.
-
-Instead I stayed seated like a good guest and tried not to shake.
-
-This was the part where I told myself I was doing the right thing.
-
-Best friends show up.
-
-Best friends don't abandon each other when the plan turns sharp.
-
-Best friends—
-
-My phone buzzed in my lap.
-
-A text from Maddison, one line.
-
-Do not follow me.
-
-I swallowed hard.
-
-Then I did what I was trained to do.
-
-I smiled.
-
-I turned back to the table and said something safe. "This dessert is incredible, Leslie."
-
-Leslie blinked, startled, like she'd forgotten I existed. Then her smile returned, too quick. "Thank you."
-
-Amelia wasn't at the table to accept the compliment as if it belonged to her, so the silence stretched in a way that made me want to crawl out of my own skin.
-
-Nathias's gaze slid to mine. His eyes were so steady it felt like he could see the panic behind my smile.
-
-"You're nervous," he said.
-
-My laugh was too high. "No, I'm not."
-
-He didn't argue. He just looked at my wineglass. "That's your third."
-
-Heat crept up my throat. "I'm an adult."
-
-"That doesn't mean alcohol makes you less afraid," he said, calm as if he were reciting a fact from a book.
-
-Sorren giggled. "Nathias, stop being weird."
-
-"I'm not weird," he replied. "I'm accurate."
-
-I forced another smile, but my palms were damp.
-
-Alec leaned slightly toward Leslie, voice low. "We'll talk later."
-
-Leslie's jaw tightened. "Not now."
-
-Alec's gaze flicked toward the hallway, toward where Maddison had gone. "She's not normal," he murmured.
-
-Leslie's eyes hardened. "Neither am I."
-
-The air in my lungs froze.
-
-My stomach dropped.
-
-Because now I knew.
-
-Now I knew Maddison had been right to come here.
-
-Now I knew Leslie Clausen was hiding something huge, and whatever it was had Alec rattled too.
-
-In the next second, I heard something from the hallway.
-
-A soft click. A door latch.
-
-Then a voice.
-
-Amelia's, low and urgent, not the bright laugh she wore at the table.
-
-"She's back," Amelia said.
-
-I couldn't hear the other voice clearly, but it was male. Rougher. Older.
-
-Amelia again, sharper. "No, listen to me. She brought someone. I don't know what she knows yet."
-
-I stared at the hallway, heart pounding.
-
-I should not be hearing this.
-
-But once you hear the truth starting, it becomes impossible to pretend you don't want the rest.
-
-I stood slowly, careful not to draw attention, and slid my chair back with a soft scrape.
-
-Leslie glanced up. "Hope?"
-
-"Bathroom," I said quickly.
-
-She nodded as if she didn't care.
-
-Alec noticed, but he didn't move.
-
-Maddison noticed everything.
-
-She glanced at the hallway, then back at her hands, then at Amelia, then at Mom.
-
-It made my stomach feel weird, like when you realize someone is playing a game you don't know the rules to.
-
-Amelia followed Hope with her eyes and smiled. It wasn't a big smile. It was a small smile, like she'd just watched a fish swim into a net.
-
-"Kids," Amelia said brightly, "should we do a little after-dinner treat? Leslie, do you still have that ice cream?"
-
-Mom blinked like she'd forgotten we owned ice cream. "Yes," she said. "Of course."
-
-"I can get it," I said quickly, because ice cream meant I could leave the table and escape all the adult weirdness.
-
-Mom's eyes flicked to me. For a second, her tight smile softened. "Okay," she said. "But don't make a mess."
-
-"I never make messes," I lied.
-
-Nathias made a sound like a cough that meant: you absolutely do.
-
-I slid off my chair and walked toward the kitchen. The hallway felt colder than the dining room, like all the warmth was being used up by pretending.
-
-When I got to the kitchen, the lights were lower. The candles on the island were still flickering. Everything smelled like lemon and garlic and something sharp I couldn't name.
-
-Mom was there.
-
-She was standing at the counter with her back to me, one hand on the edge like she needed something to hold onto. Her shoulders were stiff. She wasn't moving.
-
-Mom always moves.
-
-Even when she's tired, she wipes counters. She straightens napkins. She checks on us. Mom doesn't stop.
-
-So when she stood still like that, my chest got tight.
-
-"Mom?" I said.
-
-She jumped, like my voice had touched her skin.
-
-She turned too fast and smiled. Tight smile.
-
-"Hey, sweetheart," she said. "Did you come for ice cream?"
-
-"Yeah," I said slowly, watching her. "Are you okay?"
-
-"I'm fine," she said, too quick.
-
-I walked into the hallway with my steps quiet.
-
-The voices were coming from the powder room.
-
-The powder room.
-
-Why would Amelia be on the phone in the powder room?
-
-Because she was hiding something.
-
-Because she didn't want anyone to hear.
-
-Because this wasn't a social call.
-
-My breath came shallow.
-
-I moved closer, staying just out of sight, and held my phone at my side, thumb hovering.
-
-Then Amelia spoke again, and this time her words slid under my skin like ice.
-
-"Do not let Leslie talk," she said. "If she talks, it all comes out."
-
-My throat tightened.
-
-I lifted my phone and hit record without thinking.
-
-The red dot appeared.
-
-Evidence.
-
-A weapon.
-
-Something I could use if Maddison went too far.
-
-Or if Amelia did.
-
-Amelia's voice continued, low and furious. "I don't care if you have to scare her. She cannot admit what she is."
-
-The man's voice answered, still too muffled to make out.
-
-Amelia again, softer now. "Yes. Tonight. If you have to."
-
-I took a shaky breath and stepped back before the floor could betray me with a creak.
-
-I turned to leave—and almost slammed straight into Maddison.
-
-She stood in the hallway like she'd been waiting for me.
-
-Her eyes dropped to my phone.
-
-Then back to my face.
-
-"Hope," she said quietly. "What are you doing?"
-
-My mouth went dry. "Nothing."
-
-Maddison's expression didn't change. "You're lying."
-
-"I—" My voice cracked. I swallowed hard and tried again. "I heard Amelia. I didn't mean to. I just… I wanted to protect you."
-
-Maddison's gaze softened by a fraction, but it didn't become kind. "Protect me from what?"
-
-I looked at her, truly looked, and realized she wasn't asking because she didn't know.
-
-She was asking because she wanted to see if I would choose her.
-
-I exhaled. "From yourself," I whispered.
-
-For the first time all night, Maddison blinked.
-
-Then she stepped closer, close enough that I could smell her perfume—clean, cold, expensive. The scent of a decision.
-
-"Send it to me," she said.
-
-My stomach flipped. "What?"
-
-"The recording," she repeated. "Now."
-
-I stared at her.
-
-If I sent it to her, it became hers. It became fuel. It became permission.
-
-And if Maddison had permission, she would burn everything.
-
-I swallowed. "No."
-
-Maddison's jaw tightened. "Hope."
-
-"I'm your best friend," I said, voice shaking now, the truth finally loud enough to hear. "And best friends don't hand each other matches when they can see the gasoline."
-
-Maddison's eyes narrowed, sharp. "You think you know what I'm going to do?"
-
-"I know you," I whispered.
-
-Her gaze held mine, and in it I saw something I hadn't seen in a long time.
-
-Not anger.
-
-Need.
-
-Need was worse.
-
-Behind her, the powder room door cracked open.
-
-Amelia stepped out, phone in her hand, smile already rebuilding itself.
-
-She froze when she saw us.
-
-Just for a second.
-
-Long enough.
-
-Her eyes flicked to my phone.
-
-To the record button.
-
-To the tiny red dot.
-
-Then she smiled, bright, warm, false. "Oh," she said. "There you are. Hope, isn't it?"
-
-My mouth was dry. I nodded.
-
-Amelia stepped closer, voice syrupy. "Getting lost in my hallways?"
-
-"No," I managed.
-
-Amelia's gaze slid to Maddison. "Maddison, darling. Everything okay?"
-
-Maddison smiled back. "Perfect."
-
-Amelia laughed lightly, but her eyes stayed on my phone like it was a gun.
-
-"I love that," Amelia said. "Perfect is so… comforting."
-
-Then she leaned toward me, lowering her voice like she was sharing a secret meant to make me feel special.
-
-"Careful," she whispered. "People who record things in Harbor Hill don't always get to keep them."
-
-My stomach clenched.
-
-Maddison's hand brushed my wrist, just once. A warning. A claim.
-
-Amelia straightened, smile in place again. "Come," she said, as if we were friends. "Let's not keep Leslie waiting. She worries."
-
-She walked back toward the dining room.
-
-Maddison watched her go, eyes cold.
-
-Then Maddison looked at me again. "Give me the recording," she said, quieter now.
-
-I shook my head. "No."
-
-Her expression hardened. "Then you're choosing her."
-
-"I'm choosing us," I whispered. "I'm choosing you alive."
-
-Maddison stared at me for a long beat, and in that beat I felt the distance open between us—the distance that always opens when one friend is willing to do anything and the other still has limits.
-
-Then Maddison turned away, smooth and silent, and walked back toward the table like nothing had happened.
-
-I stood alone in the hallway, heart hammering.
+The card fell somewhere. If I found it before anyone else did, I could—
 
 My phone buzzed.
 
-A new message, unknown number.
+I froze.
 
-Just a photo.
+No one texted me during dinner parties. No one who mattered.
 
-A close-up image of my face in the hallway—me holding my phone—taken from somewhere above, from an angle I hadn't noticed.
+I pulled it from my apron pocket and stared at the screen.
 
-A camera.
+Unknown number.
 
-Someone had been watching.
+One message.
 
-Below the photo, one sentence:
+Lena.
 
-Delete it, or I send this to Leslie.
+My vision tunneled.
 
-My hands went cold.
+I opened the thread with numb fingers.
 
-I stared at the message until the screen blurred.
+Below the name was a photo.
 
-Then I looked down the hall at the powder room door.
+A photo of my card. The Lena Mercer license. Held in someone's hand—a hand I didn't recognize—against a dark background.
 
-It was shut now.
+And below that, a second message:
 
-But I remembered what Nathias had said earlier at the table—how he noticed everything. How he saw patterns.
+I know what you did.
 
-And I remembered the phone Nathias had described without realizing he'd given me the clue I needed.
+My phone slipped. I caught it before it hit the floor, heart slamming against my ribs so hard I thought I might pass out.
 
-A second phone.
+A third message arrived.
 
-A burner.
+If you want to keep your family safe, come to Harbor Hill Marina. Dock 9. 11:30 tonight. Alone.
 
-Amelia's.
+I read it three times.
 
-If I could get it, I could see who she was talking to. I could know who "tonight" was for. I could protect Maddison, and maybe protect Leslie too, even if Leslie didn't deserve it.
+Then I read it again.
 
-I walked back to the powder room door.
+This wasn't Maddison. Maddison was sitting in my dining room, watching me like she already knew everything she needed to know. Maddison didn't need to threaten. Maddison was the threat.
 
-The hallway was empty. The dining room noise covered my movement like a blanket.
+So who had my card?
 
-I turned the knob.
+Who knew my name?
 
-Locked.
+Who was watching?
 
-Of course.
+The kitchen felt too small. The air felt too thick. I leaned against the counter and tried to breathe, tried to think, tried to figure out how to survive the next hour without falling apart.
 
-I exhaled through my nose, brain racing.
+Alec appeared in the doorway.
 
-Then I did something I hadn't done in years.
+Of course he did.
 
-Something I promised myself I'd never do again.
+"Leslie," he said quietly. "What's going on?"
 
-I acted without permission.
+I shoved my phone into my pocket. "Nothing."
 
-I walked to the closet, the one near the powder room, and opened it like I belonged there. Coats brushed my shoulders. Scarves fell.
+"That wasn't nothing." He stepped closer, lowering his voice. "You look like you've seen a ghost."
 
-I reached toward the back paneling and pressed where the wood looked slightly different.
+I almost laughed.
 
-Click.
+I had seen a ghost.
 
-The hidden panel swung open.
+I was the ghost.
 
-Inside, the compartment was empty.
+"I'm fine," I said. "Just tired. Long day."
 
-But it smelled like metal and paper and secrets.
+Alec's jaw tightened. "You keep saying that. 'Fine.' 'Tired.' But you're not fine. I can see it."
 
-And taped to the inside of the panel, almost invisible, was a spare key.
+My eyes burned. "Please," I whispered. "Not now."
 
-I swallowed hard.
+"Then when?" He reached for my hand, and I flinched before I could stop myself.
 
-Of course Amelia would keep a spare key for the powder room. Of course she would hide it somewhere only she thought she knew about.
+His face cracked.
 
-I took the key.
+I'd hurt him. Again. The way I always hurt him—by holding back, by hiding, by being less than what he deserved.
 
-My hand shook.
+"I love you," I said, because it was the only true thing I could offer.
 
-I crossed to the powder room door and slid the key into the lock.
+Alec's grip on my hand tightened. "Then trust me."
 
-It turned smoothly.
+The words hung between us like a dare.
 
-The door opened.
+I wanted to. God, I wanted to.
 
-The powder room smelled like hand soap and expensive perfume.
+But if I told him the truth, he would try to fix it. He would call the police, or confront whoever was threatening me, or do something noble and dangerous that would put everyone I loved at risk.
 
-I moved quickly, breath shallow, eyes scanning the counter.
+Alec didn't understand that some problems couldn't be fixed.
 
-There.
+Some problems could only be survived.
 
-The second phone sat beside the candle like it belonged.
+"I trust you," I said softly. "But there are things I can't explain. Not yet."
 
-I grabbed it.
+His eyes searched mine. "Are we safe?"
 
-My fingers closed around the plastic, warm from recent use.
+I hesitated.
 
-And in my chest, fear collided with something else.
+That hesitation broke something.
 
-Relief.
+Alec released my hand and stepped back, expression shuttering. "Okay," he said. "Okay."
 
-Power.
+He walked back to the dining room.
 
-I shoved it into my pocket, shut the door, locked it again, and put the key back exactly where I found it.
+I stood alone in the kitchen, staring at the floor, trying not to cry.
 
-Then I stood in the hallway, heart pounding, and realized I'd crossed a line I couldn't uncross.
+My phone buzzed again.
 
-I did it before I could change my mind.`
+I looked.
+
+A fourth message.
+
+Don't be late.
+
+I swallowed hard and typed a reply with trembling fingers.
+
+I'll be there.
+
+Then I deleted the entire thread and slipped my phone back into my pocket.
+
+11:30.
+
+Dock 9.
+
+Alone.
+
+I didn't know who would be waiting for me.
+
+But I knew one thing for certain.
+
+If I didn't go, they would come for my children.
+
+And that was the one thing I would never let happen.
+
+Not again.`
+    },
+    {
+        number: 9,
+        title: "A Door Left Open",
+        pov: "Maddison",
+        content: `I watched Leslie Clausen lie to her husband and felt nothing.
+
+That was the problem with being good at reading people. You stopped being surprised by their deceptions. You stopped being angry. You just… observed.
+
+Leslie returned to the table with that practiced smile, the one that made other women trust her and made me want to shake her until the mask cracked.
+
+She sat beside Alec, close but not touching.
+
+Alec's posture had changed. Shoulders tighter. Jaw harder. Whatever they'd discussed in the kitchen had left a bruise.
+
+Good.
+
+Bruises were useful. They made people careless.
+
+I lifted my water glass—still not wine, never wine when I needed to stay sharp—and let my gaze drift across the table.
+
+Amelia was watching me.
+
+Not obviously. Amelia was too polished for obvious. But I caught the flicker of her attention, the way her eyes tracked my movements like she was cataloging data for later use.
+
+I knew her type.
+
+I had been destroyed by her type once.
+
+Women like Amelia didn't collect friends. They collected leverage. Every favor they offered came with invisible strings. Every compliment was a down payment on future control.
+
+Leslie owed Amelia something. I could see it in the way Leslie's shoulders curved slightly inward whenever Amelia spoke. In the way Leslie laughed a half-beat too late at Amelia's jokes. In the way Leslie's eyes flickered toward Amelia before making any decision, like she was checking for permission.
+
+Whatever debt Leslie carried, it was heavy.
+
+And Amelia was the kind of woman who never let debts get paid off.
+
+Hope sat across from me, pale and fidgety. She'd been gone too long earlier—bathroom, she'd said, but her hands were shaking when she returned. Hope was not a good liar. Hope was not a good anything, really, except loyal.
+
+Loyal was useful.
+
+Loyal was also dangerous.
+
+Loyal people did stupid things to protect the people they loved. They made promises they couldn't keep. They walked into situations they couldn't handle.
+
+Hope had walked into this situation because of me.
+
+I told myself I'd keep her safe.
+
+I told myself a lot of things.
+
+Sorren was chattering about something—school, probably, or one of her elaborate investigations. The kid had energy. Brightness. The kind of brightness that came from not yet understanding how dark the world could get.
+
+I envied her.
+
+I also feared for her.
+
+Because Leslie's secrets didn't just belong to Leslie. They belonged to everyone in this house. And when secrets that big finally surfaced, they dragged everyone down with them.
+
+Nathias was silent.
+
+He'd been silent most of the evening, but it wasn't the silence of a shy child. It was the silence of someone gathering information. Someone waiting.
+
+He reminded me of myself at that age.
+
+That was not a compliment.
+
+After dessert, the party began its slow dissolution. Amelia made her graceful exit first—air kisses, promises to call, the performance of friendship without its substance.
+
+Hope lingered, uncertain, glancing at me for direction.
+
+I gave her none.
+
+Let her choose.
+
+Let her decide if she wanted to stay in my orbit or escape while she still could.
+
+She stayed.
+
+Of course she stayed.
+
+Leslie walked us to the door, Alec hovering behind her like a shadow that couldn't quite keep up.
+
+"Thank you for coming," Leslie said, voice warm, eyes hollow.
+
+"Thank you for having us," I replied.
+
+Our gazes met.
+
+In that moment, I let her see it.
+
+I let her see that I knew.
+
+Not everything. Not yet. But enough.
+
+Leslie's smile flickered. Just for a second. Just enough.
+
+Then she recovered, smooth as glass, and opened the door to let us out.
+
+Hope walked ahead of me, shoulders tight, steps quick.
+
+I paused at the threshold.
+
+"Leslie," I said softly.
+
+She turned.
+
+"Be careful tonight," I said.
+
+Her face went white.
+
+I smiled—small, polite, meaningless—and walked into the night.
+
+The air outside was cool, salt-tinged, heavy with the smell of the harbor. I breathed it in and felt my chest loosen for the first time all evening.
+
+Hope was waiting by my car, arms crossed, face unreadable.
+
+"What was that?" she asked.
+
+"What was what?"
+
+"'Be careful tonight.' What does that mean?"
+
+I unlocked the car and opened the driver's side door. "It means she should be careful."
+
+"Maddison." Hope's voice cracked. "What are you planning?"
+
+I looked at her across the roof of the car. My best friend. My only friend, really. The person who had followed me into this mess because I asked her to.
+
+I should have told her the truth.
+
+I should have told her everything.
+
+Instead, I said, "Get in the car."
+
+Hope stared at me for a long moment. Then she got in.
+
+We drove in silence.
+
+The streets of Harbor Hill were quiet at this hour—manicured lawns, tasteful lighting, the kind of perfection that only existed in places where people had enough money to hide their ugliness.
+
+I thought about Leslie.
+
+I thought about the card. The name. The face I'd seen in old photographs, younger, sharper, desperate.
+
+I thought about why I'd come here.
+
+Not for closure. Closure was a fantasy sold to people who wanted permission to stop hurting.
+
+Not for revenge, exactly. Revenge implied passion, and I had burned through my passion years ago.
+
+I came because some lies were too big to let stand.
+
+I came because Leslie Clausen had built a beautiful life on the bones of someone else's destruction.
+
+I came because I needed her to admit it.
+
+Just once.
+
+Just to my face.
+
+And then—
+
+Then I would decide what happened next.
+
+Hope spoke first. "Where are we going?"
+
+I glanced at the clock. 10:47 PM.
+
+"The marina," I said.
+
+Hope's breath caught. "Why?"
+
+"Because that's where she'll be."
+
+"How do you know?"
+
+I didn't answer.
+
+I didn't need to.
+
+Hope knew me well enough to understand that I never moved without information. That I never confronted without evidence. That whatever I was about to do, I had planned it long before tonight.
+
+The marina appeared ahead, dark water glittering under scattered lights.
+
+I pulled into the lot and killed the engine.
+
+Dock 9 was visible from here. Empty. Waiting.
+
+"Stay in the car," I told Hope.
+
+"No."
+
+I turned to look at her. "Hope—"
+
+"No." Her voice was firm now, steadier than I'd heard it all night. "Whatever you're about to do, I'm not letting you do it alone."
+
+I studied her face. Pale, scared, stubborn.
+
+Loyal.
+
+I should have said no.
+
+I should have locked the doors and driven away.
+
+Instead, I said, "Fine. But stay behind me."
+
+We got out of the car and walked toward the dock.
+
+The night was quiet except for the soft slap of water against wood and the distant cry of gulls.
+
+Leslie wasn't here yet.
+
+But someone else was.
+
+A figure stood at the end of Dock 9, silhouetted against the lights of a boat.
+
+Male. Tall. Waiting.
+
+Hope grabbed my arm. "Maddison—"
+
+"I see him," I murmured.
+
+The figure didn't move.
+
+I walked forward.
+
+Behind me, Hope's footsteps stuttered, then followed.
+
+When I was close enough to make out features, the man spoke.
+
+"You're not Leslie."
+
+His voice was flat. Unimpressed.
+
+"No," I agreed. "I'm not."
+
+He tilted his head, studying me the way a predator studied something it hadn't yet decided to eat. "Then why are you here?"
+
+I stopped walking. Ten feet between us.
+
+"Because I know what Leslie is running from," I said. "And I know you're not going to get what you want from her tonight."
+
+Silence.
+
+Then the man laughed—low, rough, humorless.
+
+"You think you know something," he said. "Everyone thinks they know something. But you don't know me."
+
+"I know enough," I replied.
+
+He stepped closer. Into the light.
+
+His face was weathered, lined with the kind of age that came from hard living. His eyes were pale and cold.
+
+I didn't recognize him.
+
+But I recognized the type.
+
+The kind of man who did other people's dirty work.
+
+The kind of man who disappeared problems.
+
+"Walk away," he said. "This isn't your business."
+
+"Everything about Leslie is my business."
+
+His eyes narrowed. "Who are you?"
+
+I smiled.
+
+"I'm the reason she ran in the first place."
+
+The words hung in the air, heavy and sharp.
+
+Behind me, Hope made a small sound—surprise, maybe, or fear.
+
+The man didn't move.
+
+But something shifted in his expression.
+
+Recognition.
+
+Not of me. Of the name behind me. The history. The wound.
+
+"You're the friend," he said slowly.
+
+I didn't confirm or deny.
+
+He exhaled—a long, rattling breath—and shook his head.
+
+"This changes things," he muttered.
+
+"Does it?"
+
+He looked at me with something almost like respect. "You've been looking for her a long time."
+
+"Yes."
+
+"And now you found her."
+
+"Yes."
+
+He was quiet for a moment, calculating.
+
+Then he reached into his pocket and pulled out a phone. Not his phone—smaller, older, the kind of burner you bought at gas stations.
+
+He held it out.
+
+"Take it," he said. "Everything you need is on there. Messages. Photos. Proof."
+
+I didn't move. "Why would you give that to me?"
+
+His smile was thin. "Because my employer wants Leslie scared. And you—" He looked me up and down. "You'll scare her better than I ever could."
+
+I took the phone.
+
+It was warm from his pocket. Heavy with secrets.
+
+"Who's your employer?" I asked.
+
+He shook his head. "Doesn't matter. They'll find another way to get what they want. They always do."
+
+He turned and walked toward the boat without another word.
+
+I watched him go.
+
+Hope appeared at my side, trembling. "What just happened?"
+
+I looked down at the phone in my hand.
+
+Then I looked at the water, dark and endless.
+
+"I don't know yet," I admitted.
+
+But I was going to find out.`
     },
     {
         number: 10,
